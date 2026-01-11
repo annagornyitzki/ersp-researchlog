@@ -5,7 +5,7 @@ Research log for ERSP data generator for event streams.
 
 ## Weekly Progress Log
 
-### Week [#] - [Month Day - Month Day, Year]
+### Winter Week 1 - [January 5 - 11, 2026]
 
 #### Meeting Recaps
 - **Meeting Title/Attendees**: [Date]
