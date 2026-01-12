@@ -47,6 +47,7 @@ Annie Yang, Anna Gornyitzki
 #### Notes for Wednesday Team Su Meeting
 - Ask Tyler to give us very specific example of event generator with citi bike
 - Ask him if he can incorporate variables/language to describe the "1,n,... graph" in the skeleton
+- Ask clarifying question about the research paper and how to decide what section we each present on
 
 #### Meeting Recaps
 - **Anna and Annie Meeting**: [January 12, 2026]
