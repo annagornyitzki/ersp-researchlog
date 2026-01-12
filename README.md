@@ -33,8 +33,7 @@ Annie Yang, Anna Gornyitzki
       - contains input, output, and working details
     - Example (walking through citi bike)
   - Came up with goals for this week
-
-- **Team Su Meeting**: [January 14, 2026]
+- #### **Team Su Meeting**: [January 14, 2026]
   - 
 
 
