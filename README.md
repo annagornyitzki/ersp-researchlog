@@ -15,7 +15,7 @@ Annie Yang, Anna Gornyitzki
 
 ---
 
-### Week 2 - [January 12 - 18, 2026]
+### Winter Week 2 - [January 12 - 18, 2026]
 #### Tasks to complete for Week 3 Monday meeting
 - Come up with questions that have to be answered with our data generator
 - Research how other data generators were given data/created their fake data values
