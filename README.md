@@ -1,4 +1,4 @@
-# ERSP Research Log: Event Stream Generator
+# ERSP Research Log: Data Generator for Event Streams
 Research log for ERSP data generator for event streams.
 Annie Yang, Anna Gornyitzki
 
