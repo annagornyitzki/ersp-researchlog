@@ -9,36 +9,13 @@ Annie Yang, Anna Gornyitzki
 ### Winter Week 1 - [January 5 - 11, 2026]
 
 #### Meeting Recaps
-- **Meeting Title/Attendees**: [Date]
-  - Key points discussed
-  - Decisions made
-  - Action items
-
-#### Notes
-- [General observations and progress]
-- [Challenges encountered]
-- [Insights or findings]
-
-#### Work Completed
-- [ ] Task 1
-- [ ] Task 2
-- [ ] Task 3
-
-#### Work Planned for Next Week
-- [ ] Upcoming task 1
-- [ ] Upcoming task 2
-
-#### References & Resources
-- [Reference Title](URL) - Brief description
-- [Paper/Document](link) - How it relates to project
-
-#### Blockers/Issues
-- Issue: [Description]
-  - Potential solutions: [Ideas]
+- **Team Su Meeting**: [January 14, 2026]
+  - Tyler presented that we are going to be given event skeleton and we need to figure out how to fill them in.
+  - The data generator will not have to deal with timestamps, but we have to deal with causation/termination relationships.
 
 ---
 
-### Week 2 - [[January 12 - 18, 2026]
+### Week 2 - [January 12 - 18, 2026]
 #### Tasks to complete for Week 3 Monday meeting
 - Come up with questions that have to be answered with our data generator
 - Research how other data generators were given data/created their fake data values
@@ -60,19 +37,6 @@ Annie Yang, Anna Gornyitzki
 - **Team Su Meeting**: [January 14, 2026]
   - 
 
-#### Notes
-- [General observations and progress]
-- [Challenges encountered]
-- [Insights or findings]
-
-#### Work Completed
-- [ ] Task 1
-- [ ] Task 2
-- [ ] Task 3
-
-#### Work Planned for Next Week
-- [ ] Upcoming task 1
-- [ ] Upcoming task 2
 
 #### References & Resources
 - [Reference Title](URL) - Brief description
