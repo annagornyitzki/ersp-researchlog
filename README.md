@@ -40,4 +40,27 @@ Annie Yang, Anna Gornyitzki
 #### References & Resources
 - [Cugola Margara 2012 Paper](https://drive.google.com/drive/u/1/folders/1M8SXcFD6S6AObufdfe704Zn7Bq_AWvzI) - Read and present on 4.2/4.3 for seminar
 
---- 
+---
+
+### Winter Week 3 - [January 19 - 25, 2026]
+#### Tasks to complete for Week 4 Monday meeting
+- Continue to come up with questions that have to be answered with our data generator
+- Continue to research how other data generators were given data/created their fake data values
+- Come up with ways to start using Tyler's presented skeleton for our data generator
+- Meet on Monday January 25 and share what we found
+
+#### Notes for Wednesday Team Su Meeting
+- Ask Tyler more clarifying questions on his event skeleton
+
+#### Meeting Recaps
+- **Anna and Annie Meeting**: [January 19, 2026]
+  - No meeting, MLK holiday
+  - Come up with ways to start using Tyler's presented skeleton for our data generator
+    
+- #### **Team Su Meeting**: [January 21, 2026]
+  - 
+
+
+#### References & Resources
+- [Cugola Margara 2012 Paper](https://drive.google.com/drive/u/1/folders/1M8SXcFD6S6AObufdfe704Zn7Bq_AWvzI) - Read and present on 4.2/4.3 for seminar
+
