@@ -38,11 +38,6 @@ Annie Yang, Anna Gornyitzki
 
 
 #### References & Resources
-- [Reference Title](URL) - Brief description
-- [Paper/Document](link) - How it relates to project
-
-#### Blockers/Issues
-- Issue: [Description]
-  - Potential solutions: [Ideas]
+- [Cugola Margara 2012 Paper](https://drive.google.com/drive/u/1/folders/1M8SXcFD6S6AObufdfe704Zn7Bq_AWvzI) - Read and present on 4.2/4.3 for seminar
 
 --- 
