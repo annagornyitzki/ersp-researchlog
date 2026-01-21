@@ -58,7 +58,11 @@ Annie Yang, Anna Gornyitzki
   - Come up with ways to start using Tyler's presented skeleton for our data generator
     
 - #### **Team Su Meeting**: [January 21, 2026]
-  - 
+  - Refer to Tyler's powerpoint to see detailed presentation [1/14 Slides](https://docs.google.com/presentation/d/1ZtYFU_Sm-F4DCE2BoLBZ6Wa0h2E_W260GPpn4v624lQ/edit?slide=id.p#slide=id.p)
+  - Discussed using a database schema for data generator
+  - Tyler presented us an event skeleton
+  - Su wants us to come up with questions for Tyler for next week's meeting
+  - Make powerpoint slides to present Sections 4.2/4.3 of the paper for the Jan 28th 8:30pm seminar
 
 
 #### References & Resources
